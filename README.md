@@ -1,5 +1,7 @@
 # Linux Health Dashboard
 
+![linux-health-dashboard project banner](docs/project-banner.webp)
+
 A read-only, localhost dashboard for Linux memory, disk usage, uptime, load averages, selected systemd services, and Docker containers. Built as a new learning and portfolio project for Jason Edwards; it has not been deployed or validated on his home server.
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue) ![Dependencies](https://img.shields.io/badge/runtime-standard_library-green)
